@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.31)
+project(16_17___Largest_Rectangular_Area_in_a_Histogram)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(16_17___Largest_Rectangular_Area_in_a_Histogram main.cpp)

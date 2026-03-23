@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.31)
+project(27___Count_distinct_elements_in_every_window)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(27___Count_distinct_elements_in_every_window main.cpp)

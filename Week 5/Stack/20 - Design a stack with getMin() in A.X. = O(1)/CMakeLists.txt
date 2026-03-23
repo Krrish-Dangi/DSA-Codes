@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.31)
+project(20___Design_a_stack_with_getMin___in_A_X____O_1_)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(20___Design_a_stack_with_getMin___in_A_X____O_1_ main.cpp)

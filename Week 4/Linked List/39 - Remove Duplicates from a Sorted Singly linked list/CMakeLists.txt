@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.31)
+project(39___Remove_Duplicates_from_a_Sorted_Singly_linked_list)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(39___Remove_Duplicates_from_a_Sorted_Singly_linked_list main.cpp)

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.31)
+project(19___Longest_Substring_with_Distinct_Characters)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(19___Longest_Substring_with_Distinct_Characters main.cpp)

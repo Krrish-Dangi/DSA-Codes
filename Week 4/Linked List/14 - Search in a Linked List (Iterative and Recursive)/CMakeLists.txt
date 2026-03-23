@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.31)
+project(14___Search_in_a_Linked_List__Iterative_and_Recursive_)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(14___Search_in_a_Linked_List__Iterative_and_Recursive_ main.cpp)

@@ -1,0 +1,4 @@
+"D:\CLion 2025.1.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S "D:\C++ Things\DSA\Week 2\Searching\1 - Binary Search (Iterative)" -B "D:\C++ Things\DSA\Week 2\Searching\1 - Binary Search (Iterative)\cmake-build-debug"
+-- Configuring done (0.2s)
+-- Generating done (0.1s)
+-- Build files have been written to: D:/C++ Things/DSA/Week 2/Searching/1 - Binary Search (Iterative)/cmake-build-debug

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.31)
+project(10___Search_in_Row_wise_and_Column_wise_sorted_matrix)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(10___Search_in_Row_wise_and_Column_wise_sorted_matrix main.cpp)

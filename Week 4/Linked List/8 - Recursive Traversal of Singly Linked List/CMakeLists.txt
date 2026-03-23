@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.31)
+project(8___Recursive_Traversal_of_Singly_Linked_List)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(8___Recursive_Traversal_of_Singly_Linked_List main.cpp)

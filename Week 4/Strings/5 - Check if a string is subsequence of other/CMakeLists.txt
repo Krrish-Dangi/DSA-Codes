@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.31)
+project(5___Check_if_a_string_is_subsequence_of_other)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(5___Check_if_a_string_is_subsequence_of_other main.cpp)

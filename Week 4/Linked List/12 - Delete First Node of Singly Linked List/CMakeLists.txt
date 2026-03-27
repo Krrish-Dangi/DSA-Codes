@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.31)
-project(12___Delete_First_Node_of_Singly_Linked_List)
-
-set(CMAKE_CXX_STANDARD 20)
-
-add_executable(12___Delete_First_Node_of_Singly_Linked_List main.cpp)

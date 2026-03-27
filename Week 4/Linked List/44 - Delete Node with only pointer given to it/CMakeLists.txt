@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.31)
-project(44___Delete_Node_with_only_pointer_given_to_it)
-
-set(CMAKE_CXX_STANDARD 20)
-
-add_executable(44___Delete_Node_with_only_pointer_given_to_it main.cpp)

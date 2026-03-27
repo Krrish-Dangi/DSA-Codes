@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.31)
-project(50___Clone_a_linked_list_with_random_pointer)
-
-set(CMAKE_CXX_STANDARD 20)
-
-add_executable(50___Clone_a_linked_list_with_random_pointer main.cpp)

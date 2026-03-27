@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.31)
-project(25___Longest_common_span_with_same_sum_in_binary)
-
-set(CMAKE_CXX_STANDARD 20)
-
-add_executable(25___Longest_common_span_with_same_sum_in_binary main.cpp)

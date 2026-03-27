@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 3.31)
-project(Frequencies_of_every_element_in_a_sorted_array)
-
-set(CMAKE_CXX_STANDARD 20)
-
-add_executable(Frequencies_of_every_element_in_a_sorted_array main.cpp)

@@ -10,7 +10,9 @@ I built this repo as part of my learning journey to strengthen problem-solving s
 
 The repository is divided into weeks, and each week contains detailed topics and implementations.
 
-Example Structure:
+### Example Structure:
+
+```
 DSA/
  ├── Week 1/
  ├── Week 2/
@@ -27,12 +29,13 @@ DSA/
  │    │    ├── 9 - Double Hashing
  │    │    ├── 10 - Implementation of Open Addressing
  │    │    ├── ...
+```
 
 Each topic contains:
 
-C++ implementation
-Problem-based learning
-Concept-wise breakdown
+* C++ implementation
+* Problem-based learning
+* Concept-wise breakdown
 
 ---
 
